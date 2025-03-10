@@ -2,9 +2,15 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
-      <module name="StartGradle" target="23" />
-      <module name="StartGradle.main" target="23" />
-      <module name="StartGradle.test" target="23" />
+      <module name="lab" target="17" />
+      <module name="lab.main" target="17" />
+      <module name="lab.test" target="17" />
+      <module name="merge" target="17" />
+      <module name="merge.main" target="17" />
+      <module name="merge.test" target="17" />
+      <module name="StartGradle" target="17" />
+      <module name="StartGradle.main" target="17" />
+      <module name="StartGradle.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

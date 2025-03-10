@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="merge" external.linked.project.path="$MODULE_DIR$/merge" external.root.project.path="$MODULE_DIR$/merge" external.system.id="GRADLE" external.system.module.group="ro" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/merge">
+      <excludeFolder url="file://$MODULE_DIR$/merge/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/merge/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
