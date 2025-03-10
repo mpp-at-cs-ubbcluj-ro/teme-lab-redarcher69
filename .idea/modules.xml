@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab.iml" filepath="$PROJECT_DIR$/lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2.iml" filepath="$PROJECT_DIR$/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/merge.iml" filepath="$PROJECT_DIR$/merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/merge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/merge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/merge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/merge.test.iml" />
+    </modules>
+  </component>
+</project>
