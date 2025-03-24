@@ -127,7 +127,7 @@ public class CarsDBRepository implements CarRepository{
                     cars.add(car);
                 }
             }
-        } catch (SQLException e) {
+        }    catch (SQLException e) {
                 logger.error(e);
                 System.out.println("Error DB " + e);
             }
